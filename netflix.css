@@ -10,6 +10,15 @@ body{
     background-color: black;
 }
 
+.flixhub{
+    color:#e50914;
+    font-size:32px;
+    font-weight:900;
+    letter-spacing:2px;
+    z-index: 10;
+    position: relative;
+}
+
 .main{
     background-image: url("bg.jpg");
     background-position: center center;
