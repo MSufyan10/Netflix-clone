@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone - Frontend Project
 
-**Live Demo:** https://netflix-clone-rho-three-49.vercel.app
+**Live Demo:** https://netflix-clone-4q0gv17n2-ms-ufyan10.vercel.app/
 
 **Repo:** https://github.com/MSufyan10/Netflix-clone
 
